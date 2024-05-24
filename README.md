@@ -9,5 +9,5 @@ Ce projet est une application de calculatrice Android développée dans le cadre
 
 ## Problèmes Rencontrés
 ### Problème de Liaison avec `styles.xml`
-Lors de la tentative d'utilisation de `styles.xml` pour appliquer des styles personnalisés, un problème de liaison a été rencontré. Cela a causé des incohérences dans l'apparence des éléments de l'interface utilisateur, rendant l'application visuellement non aboutie. 
+Lors de la tentative d'utilisation de `styles.xml` pour appliquer des styles personnalisés, un problème de liaison a été rencontré. Cela a causé des incohérences dans l'apparence des éléments de l'interface utilisateur, rendant l'application visuellement non aboutie pour les versions bonus. 
 
